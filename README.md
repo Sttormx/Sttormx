@@ -1,5 +1,5 @@
-### Hello Everyone!
-I'm Pedro Viana, back-end developer. 
+### Olá!
+Eu me chamo Pedro Viana, sou um desenvolvedor Full Stack. Atualmente gosto de programar nas linguagens Go, PHP e Typescript! 
 
 ![Snake animation](https://github.com/sttormx/sttormx/blob/output/github-contribution-grid-snake.svg)
 
